@@ -11,9 +11,9 @@ Each cell type behaves differently, challenging the player to strategize within 
 
 ## Results
 <p>
-  <img src="./image1.png" width="300" style="display:inline;"/>
-  <img src="./image2.png" width="300" style="display:inline;"/>
-  <img src="./image3.png" width="300" style="display:inline;"/>
+  <img src="./image1.png" width="200" style="display:inline;"/>
+  <img src="./image2.png" width="200" style="display:inline;"/>
+  <img src="./image3.png" width="200" style="display:inline;"/>
 </p>
 
 ## How to Play
