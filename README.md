@@ -10,9 +10,9 @@ Each cell type behaves differently, challenging the player to strategize within 
 - Suggested IDE: IntelliJ
 
 ## Results
-![image1](./image1.png)
-![image2](./image2.png)
-![image3](./image3.png)
+<img src="image1.png" width="200" />
+<img src="image2.png" width="200" />
+<img src="image3.png" width="200" />
 
 ## How to Play
 Import the project in your IDE, configure JavaFX and run class `Main`
