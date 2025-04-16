@@ -10,9 +10,11 @@ Each cell type behaves differently, challenging the player to strategize within 
 - Suggested IDE: IntelliJ
 
 ## Results
-<img src="image1.png" width="200" />
-<img src="image2.png" width="200" />
-<img src="image3.png" width="200" />
+<p>
+  <img src="./image1.png" width="300" style="display:inline;"/>
+  <img src="./image2.png" width="300" style="display:inline;"/>
+  <img src="./image3.png" width="300" style="display:inline;"/>
+</p>
 
 ## How to Play
 Import the project in your IDE, configure JavaFX and run class `Main`
